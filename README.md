@@ -4,6 +4,8 @@
 
 🎮 **Get ready to embark on an epic journey** as you control a vibrant snake through a maze of challenges, where every move counts. Eat your way to victory and aim for the highest score while avoiding perilous obstacles!
 
+![image](https://github.com/YawBoah/Snake-game/assets/126890146/9aefb054-13ee-4972-9a68-7b86ed7dfd40)
+
 ## 🌟 Key Features
 
 📱 **Responsive Design**: Play seamlessly on both desktop and mobile devices, ensuring the fun never stops no matter where you are.
