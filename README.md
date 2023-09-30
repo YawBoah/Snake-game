@@ -39,11 +39,11 @@
 
 ## 📜 License
 
-This project is licensed under the [License Name] License. For details, check out the [LICENSE](LICENSE) file.
+This project is licensed under the YawBoah License. For details, check out the [LICENSE](LICENSE) file.
 
 ## 🙏 Acknowledgments
 
-A heartfelt thanks to [Name] for the inspiration and invaluable guidance.
+A heartfelt thanks to CodingNepal for the inspiration and invaluable guidance.
 
 ---
 
