@@ -41,7 +41,7 @@
 
 ## 📜 License
 
-This project is licensed under the YawBoah License. For details, check out the [LICENSE](LICENSE) file.
+This project is open-source and available under the [MIT License](LICENSE).
 
 ## 🙏 Acknowledgments
 
