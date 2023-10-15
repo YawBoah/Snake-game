@@ -25,6 +25,12 @@
 3. **Stay Alert**: Avoid collisions with walls and your own tail.
 4. **Set Records**: Aim for the highest score possible and outdo your previous achievements.
 
+## Experience the app
+🎯 **Aim for the High Score**:
+
+Click the link below and start your Snake Game adventure. Test your agility, compete with friends, and see if you can secure a spot on the leaderboard!
+
+[🐍 Play Snake Game]() - Click here to have a great gaming experience!
 ## 🚀 Installation
 
 1. **Clone or Download**: Clone this repository or download the ZIP file to your device.
